@@ -1,0 +1,2 @@
+# globalwinescore-com-8234aab51481d37a30757d925b7f4221a659427e-openapi
+OpenAPI specification for globalwinescore.com API v8234aab51481d37a30757d925b7f4221a659427e
